@@ -1,0 +1,157 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.contenedor{
+margin: 10px;
+padding: 10px;
+background:#830315;
+width:350 px ;
+height:500 px;
+display: inline-block;
+border-radius: 20px;
+}
+
+.contenedor-1{
+background:#830315;
+display: inline-block;
+border-radius: 20px;  
+position: absolute;
+margin: 10px;
+}
+
+.conIMA{
+	background: #D3152F ;
+    width: 350px ;
+    height: 500px;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+.conDAT{
+	background: #D3152F ;
+    width:250px ;
+    height:500px ;
+    margin: 10px;
+
+    display: inline-block;
+    border-radius: 20px;
+}
+.DAT{
+    margin-left: 30PX;
+}
+
+.conIMA input[type="file"]{
+    background: #F4BDB1 ;
+    border-radius: 20px;
+    border: solid 5px #830315;
+}
+.conIMA .ima{
+   width: 200px;
+   height: 200px;
+   top: -50px;
+   border-radius: 50%;
+   margin-left: 70px;
+   margin-top: 20px;
+   display: inline;
+
+}
+.con-0{
+    background: transparent;
+    width: 650px;
+    margin-left: 350px;
+    margin-top: 0px;
+}
+
+svg{
+    color: white;
+}
+.fondo{
+    background:#FADBD8 ;
+    height: 700px;
+    padding: 30px;
+}
+.loli{
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.titulo-1{
+    font-family: Homer Simpson UI;
+    color: white ;
+    font-size: 40px;
+    margin-left: 50px;
+   margin-top: 20px;
+}
+.ho-1{
+    font-family: Homer Simpson UI;
+    color: white ;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 10px;
+   margin-top: 20px;
+}
+.editar{
+    border-radius: 10px;
+    width: 100px;
+    color: white;
+    border: solid 5px #830315;
+    text-align: center;
+    background: #830315;
+    display: inline-block;
+    margin: 5px;
+}
+.editar-1{
+    border-radius: 10px;
+    color: white;
+    border: solid 5px #830315;
+    text-align: center;
+    background: #830315;
+}
+.eliminar{
+    border-radius: 10px;
+    width: 100px;
+    color: white;
+    border: solid 5px #830315;
+    text-align: center;
+    background: #830315;
+    display: inline-block;
+    margin: 5px;
+}
+.eliminar-1{
+    border-radius: 10px;
+    color: white;
+    border: solid 5px #830315;
+    text-align: center;
+    background: #830315;
+}
+.guardar{
+    border-radius: 10px;
+    width: 100px;
+    color: white;
+    border: solid 5px #830315;
+    text-align: center;
+    background: #830315;
+    display: inline-block;
+    margin: 5px;
+}
+.guardar-1{
+    border-radius: 10px;
+    color: white;
+    border: solid 5px #830315;
+    text-align: center;
+    background: #830315;
+}
+.label-1{
+    text-align: center;
+    width: 160px;
+    height: 30PX;
+    margin-left: 20px;
+    margin: 5px;
+    display: block;
+    background:#FADBD8;
+    border-radius: 5px;
+}
+.cent{
+    margin: 30px;
+}
